@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>WebAssembly for Real-time Data Processing</title>
-    <link href="https://yhf/feed.xml" rel="self" />
-    <link href="https://yhf" />
+    <link href="https://wasme.pages.dev/feed.xml" rel="self" />
+    <link href="https://wasme.pages.dev" />
     <updated>2025-03-27T15:18:11+01:00</updated>
     <author>
         <name>aymen</name>
     </author>
-    <id>https://yhf</id>
+    <id>https://wasme.pages.dev</id>
 
     <entry>
         <title>The WASM Binary Format (WASM) and its impact on RTDP deployment size</title>
         <author>
             <name>aymen</name>
         </author>
-        <link href="https://yhf/the-wasm-binary-format-wasm-and-its-impact-on-rtdp-deployment-size.html"/>
-        <id>https://yhf/the-wasm-binary-format-wasm-and-its-impact-on-rtdp-deployment-size.html</id>
+        <link href="https://wasme.pages.dev/the-wasm-binary-format-wasm-and-its-impact-on-rtdp-deployment-size.html"/>
+        <id>https://wasme.pages.dev/the-wasm-binary-format-wasm-and-its-impact-on-rtdp-deployment-size.html</id>
 
         <updated>2025-03-27T15:18:11+01:00</updated>
             <summary>
@@ -70,8 +70,8 @@
         <author>
             <name>aymen</name>
         </author>
-        <link href="https://yhf/the-wasm-text-format-wat-for-debugging-rtdp-logic.html"/>
-        <id>https://yhf/the-wasm-text-format-wat-for-debugging-rtdp-logic.html</id>
+        <link href="https://wasme.pages.dev/the-wasm-text-format-wat-for-debugging-rtdp-logic.html"/>
+        <id>https://wasme.pages.dev/the-wasm-text-format-wat-for-debugging-rtdp-logic.html</id>
 
         <updated>2025-03-27T15:16:45+01:00</updated>
             <summary>
@@ -194,8 +194,8 @@
         <author>
             <name>aymen</name>
         </author>
-        <link href="https://yhf/linear-memory-and-its-implications-for-data-buffers-in-rtdp.html"/>
-        <id>https://yhf/linear-memory-and-its-implications-for-data-buffers-in-rtdp.html</id>
+        <link href="https://wasme.pages.dev/linear-memory-and-its-implications-for-data-buffers-in-rtdp.html"/>
+        <id>https://wasme.pages.dev/linear-memory-and-its-implications-for-data-buffers-in-rtdp.html</id>
 
         <updated>2025-03-27T15:15:20+01:00</updated>
             <summary>
@@ -259,8 +259,8 @@
         <author>
             <name>aymen</name>
         </author>
-        <link href="https://yhf/memory-management-in-wasm-for-long-running-rtdp-tasks.html"/>
-        <id>https://yhf/memory-management-in-wasm-for-long-running-rtdp-tasks.html</id>
+        <link href="https://wasme.pages.dev/memory-management-in-wasm-for-long-running-rtdp-tasks.html"/>
+        <id>https://wasme.pages.dev/memory-management-in-wasm-for-long-running-rtdp-tasks.html</id>
 
         <updated>2025-03-27T15:13:55+01:00</updated>
             <summary>
@@ -353,8 +353,8 @@
         <author>
             <name>aymen</name>
         </author>
-        <link href="https://yhf/understanding-wasms-execution-model-in-rtdp-contexts.html"/>
-        <id>https://yhf/understanding-wasms-execution-model-in-rtdp-contexts.html</id>
+        <link href="https://wasme.pages.dev/understanding-wasms-execution-model-in-rtdp-contexts.html"/>
+        <id>https://wasme.pages.dev/understanding-wasms-execution-model-in-rtdp-contexts.html</id>
 
         <updated>2025-03-27T15:12:30+01:00</updated>
             <summary>
@@ -436,8 +436,8 @@
         <author>
             <name>aymen</name>
         </author>
-        <link href="https://yhf/the-role-of-wasms-performance-characteristics-in-rtdp.html"/>
-        <id>https://yhf/the-role-of-wasms-performance-characteristics-in-rtdp.html</id>
+        <link href="https://wasme.pages.dev/the-role-of-wasms-performance-characteristics-in-rtdp.html"/>
+        <id>https://wasme.pages.dev/the-role-of-wasms-performance-characteristics-in-rtdp.html</id>
 
         <updated>2025-03-27T15:11:04+01:00</updated>
             <summary>
@@ -489,8 +489,8 @@
         <author>
             <name>aymen</name>
         </author>
-        <link href="https://yhf/wasm-vs-javascript-for-low-latency-stream-processing.html"/>
-        <id>https://yhf/wasm-vs-javascript-for-low-latency-stream-processing.html</id>
+        <link href="https://wasme.pages.dev/wasm-vs-javascript-for-low-latency-stream-processing.html"/>
+        <id>https://wasme.pages.dev/wasm-vs-javascript-for-low-latency-stream-processing.html</id>
 
         <updated>2025-03-27T15:09:39+01:00</updated>
             <summary>
@@ -613,8 +613,8 @@
         <author>
             <name>aymen</name>
         </author>
-        <link href="https://yhf/hfghfgh.html"/>
-        <id>https://yhf/hfghfgh.html</id>
+        <link href="https://wasme.pages.dev/hfghfgh.html"/>
+        <id>https://wasme.pages.dev/hfghfgh.html</id>
 
         <updated>2025-03-27T15:04:25+01:00</updated>
             <summary></summary>

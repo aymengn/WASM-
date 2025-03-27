@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://yhf/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://wasme.pages.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://yhf/</loc>
+<loc>https://wasme.pages.dev/</loc>
 </url>
 <url>
-<loc>https://yhf/hfghfgh.html</loc>
+<loc>https://wasme.pages.dev/hfghfgh.html</loc>
 <lastmod>2025-03-27T15:04:25+01:00</lastmod>
 </url>
 <url>
-<loc>https://yhf/linear-memory-and-its-implications-for-data-buffers-in-rtdp.html</loc>
+<loc>https://wasme.pages.dev/linear-memory-and-its-implications-for-data-buffers-in-rtdp.html</loc>
 <lastmod>2025-03-27T15:15:20+01:00</lastmod>
 </url>
 <url>
-<loc>https://yhf/memory-management-in-wasm-for-long-running-rtdp-tasks.html</loc>
+<loc>https://wasme.pages.dev/memory-management-in-wasm-for-long-running-rtdp-tasks.html</loc>
 <lastmod>2025-03-27T15:13:55+01:00</lastmod>
 </url>
 <url>
-<loc>https://yhf/page/2/</loc>
+<loc>https://wasme.pages.dev/page/2/</loc>
 </url>
 <url>
-<loc>https://yhf/the-role-of-wasms-performance-characteristics-in-rtdp.html</loc>
+<loc>https://wasme.pages.dev/the-role-of-wasms-performance-characteristics-in-rtdp.html</loc>
 <lastmod>2025-03-27T15:11:04+01:00</lastmod>
 </url>
 <url>
-<loc>https://yhf/the-wasm-binary-format-wasm-and-its-impact-on-rtdp-deployment-size.html</loc>
+<loc>https://wasme.pages.dev/the-wasm-binary-format-wasm-and-its-impact-on-rtdp-deployment-size.html</loc>
 <lastmod>2025-03-27T15:18:11+01:00</lastmod>
 </url>
 <url>
-<loc>https://yhf/the-wasm-text-format-wat-for-debugging-rtdp-logic.html</loc>
+<loc>https://wasme.pages.dev/the-wasm-text-format-wat-for-debugging-rtdp-logic.html</loc>
 <lastmod>2025-03-27T15:16:45+01:00</lastmod>
 </url>
 <url>
-<loc>https://yhf/understanding-wasms-execution-model-in-rtdp-contexts.html</loc>
+<loc>https://wasme.pages.dev/understanding-wasms-execution-model-in-rtdp-contexts.html</loc>
 <lastmod>2025-03-27T15:12:30+01:00</lastmod>
 </url>
 <url>
-<loc>https://yhf/wasm-vs-javascript-for-low-latency-stream-processing.html</loc>
+<loc>https://wasme.pages.dev/wasm-vs-javascript-for-low-latency-stream-processing.html</loc>
 <lastmod>2025-03-27T15:09:39+01:00</lastmod>
 </url>
 </urlset>
